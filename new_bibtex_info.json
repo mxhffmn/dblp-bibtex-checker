@@ -1,0 +1,1086 @@
+{
+  "entries_not_found" : [
+    [
+      "Bergmann2009",
+      "Case-Based Reasoning - Introduction and Recent Developments."
+    ],
+    [
+      "Babai2019",
+      "{Group}, {graphs}, {algorithms}: {The} {Graph} {Isomorphism} {Problem}"
+    ],
+    [
+      "Fukushima1980",
+      "Neocognitron: A self-organizing neural network model for a mechanism of pattern recognition unaffected by shift in position"
+    ],
+    [
+      "Gori",
+      "A new model for learning in graph domains"
+    ],
+    [
+      "Pan2022",
+      "A deep siamese neural network improves metagenome-assembled genomes in microbiome datasets across different environments"
+    ],
+    [
+      "Gong2023",
+      "Cross-domain few-shot learning based on pseudo-Siamese neural network"
+    ],
+    [
+      "Li2022a",
+      "Clothes retrieval based on {ResNet} and cluster triplet loss"
+    ],
+    [
+      "Qian2022",
+      "A review on autoencoder based representation learning for fault detection and diagnosis in industrial processes"
+    ],
+    [
+      "Yang2022",
+      "Autoencoder-based representation learning and its application in intelligent fault diagnosis: A review"
+    ],
+    [
+      "Zhang2022",
+      "Graph Masked Autoencoders with Transformers"
+    ],
+    [
+      "Xuan2021",
+      "Integration of pairwise neighbor topologies and {miRNA} family and cluster attributes for {miRNA}{\\textendash}disease association prediction"
+    ],
+    [
+      "Lassila:99:RDF",
+      "Resource Description Framework ({RDF}) Model and Syntax Specification"
+    ],
+    [
+      "Ge2021",
+      "Graph Autoencoder for Graph Compression and Representation Learning"
+    ],
+    [
+      "Zuo2020",
+      "Effects of Random Negative Training Samples on Mineral Prospectivity Mapping"
+    ],
+    [
+      "Tang2019",
+      "Urban waterlogging susceptibility assessment based on a {PSO}-{SVM} method using a novel repeatedly random sampling idea to select negative samples"
+    ],
+    [
+      "Tang2020",
+      "A novel optimized repeatedly random undersampling for selecting negative samples: A case study in an {SVM}-based forest fire susceptibility assessment"
+    ],
+    [
+      "Naqvi2022",
+      "{CBR}-Based Decision Support System for Maintenance Text Using {NLP} for an Aviation Case Study"
+    ]
+  ],
+  "entries_not_matched" : [
+    [
+      "Zeyen2017",
+      "Conversational Process-Oriented Case-Based Reasoning",
+      {
+        "title" : "Conversational Process-Oriented Case-Based Reasoning",
+        "title_match" : "A Conversational Approach to Process-oriented Case-based Reasoning.",
+        "title_levenshtein" : 0.8739495798319328,
+        "author" : "Christian Zeyen",
+        "author_match" : "Christian Zeyen",
+        "author_levenshtein" : 1.0,
+        "doi" : "10.1007/978-3-319-61030-6_28",
+        "match_doi" : "10.24963/IJCAI.2018/762"
+      }
+    ],
+    [
+      "Minor2014",
+      "Process-oriented case-based reasoning",
+      {
+        "title" : "Process-oriented case-based reasoning",
+        "title_match" : "Ranking-Based Case Retrieval with Graph Neural Networks in Process-Oriented Case-Based Reasoning.",
+        "title_levenshtein" : 0.5522388059701493,
+        "author" : "Mirjam Minor",
+        "author_match" : "Maximilian Hoffmann",
+        "author_levenshtein" : 0.3870967741935484,
+        "doi" : "10.1016/j.is.2013.06.004",
+        "match_doi" : "10.32473/FLAIRS.36.133039"
+      }
+    ],
+    [
+      "Kingma2014",
+      "Semi-Supervised Learning with Deep Generative Models",
+      {
+        "title" : "Semi-Supervised Learning with Deep Generative Models",
+        "title_match" : "scSASSL: Self-attention semi-supervised learning with deep generative models to automatically identify cell types.",
+        "title_levenshtein" : 0.6265060240963856,
+        "author" : "Diederik Kingma",
+        "author_match" : "Hongyu Duan",
+        "author_levenshtein" : 0.23076923076923073,
+        "doi" : null,
+        "match_doi" : "10.1109/BIBM55620.2022.9995068"
+      }
+    ],
+    [
+      "Kipf2016",
+      "Variational Graph Auto-Encoders",
+      {
+        "title" : "Variational Graph Auto-Encoders",
+        "title_match" : "A Multi-Task Graph Neural Network with Variational Graph Auto-Encoders for Session-Based Travel Packages Recommendation.",
+        "title_levenshtein" : 0.4105960264900662,
+        "author" : "Thomas Kipf",
+        "author_match" : "Guixiang Zhu",
+        "author_levenshtein" : 0.17391304347826086,
+        "doi" : null,
+        "match_doi" : "10.1145/3577032"
+      }
+    ],
+    [
+      "Wetzel2020",
+      "Twin Neural Network Regression",
+      {
+        "title" : "Twin Neural Network Regression",
+        "title_match" : "Twin neural network regression is a semi-supervised regression algorithm.",
+        "title_levenshtein" : 0.5825242718446602,
+        "author" : "Sebastian Wetzel",
+        "author_match" : "Sebastian Wetzel",
+        "author_levenshtein" : 1.0,
+        "doi" : null,
+        "match_doi" : "10.1088/2632-2153/AC9885"
+      }
+    ],
+    [
+      "Hamilton2020",
+      "Graph Representation Learning",
+      {
+        "title" : "Graph Representation Learning",
+        "title_match" : "Environnement Informatique et apprentissage de l&apos;articulation entre registres graphique et alg\u00e9brique de repr\u00e9sentation des fonctions. (Computer environment and learning of the articulation between graphic and algebraic representation registers of functions).",
+        "title_levenshtein" : 0.20138888888888884,
+        "author" : "William Hamilton",
+        "author_match" : "Antoine Dagher",
+        "author_levenshtein" : 0.2666666666666667,
+        "doi" : "10.1007/978-3-031-01588-5",
+        "match_doi" : null
+      }
+    ],
+    [
+      "Sun2022",
+      "Network Embedding",
+      {
+        "title" : "Network Embedding",
+        "title_match" : "Network Together: Node Classification via Cross-Network Deep Network Embedding.",
+        "title_levenshtein" : 0.35416666666666663,
+        "author" : "Maosong Sun",
+        "author_match" : "Xiao Shen",
+        "author_levenshtein" : 0.5,
+        "doi" : null,
+        "match_doi" : "10.1109/TNNLS.2020.2995483"
+      }
+    ],
+    [
+      "Zhou2003",
+      "Learning with Local and Global Consistency",
+      {
+        "title" : "Learning with Local and Global Consistency",
+        "title_match" : "Semi-supervised Learning with Local and Global Consistency by Geodesic Distance and Sparse Representation.",
+        "title_levenshtein" : 0.5675675675675675,
+        "author" : "Dengyong Zhou",
+        "author_match" : "Jie Gui",
+        "author_levenshtein" : 0.30000000000000004,
+        "doi" : null,
+        "match_doi" : "10.1007/978-3-642-36669-7_16"
+      }
+    ],
+    [
+      "Li2020",
+      "Dirichlet Graph Variational Autoencoder",
+      {
+        "title" : "Dirichlet Graph Variational Autoencoder",
+        "title_match" : "Dirichlet Process Prior for Student&apos;s t Graph Variational Autoencoders.",
+        "title_levenshtein" : 0.7090909090909091,
+        "author" : "Jia Li",
+        "author_match" : "Yuexuan Zhao",
+        "author_levenshtein" : 0.2222222222222222,
+        "doi" : null,
+        "match_doi" : "10.3390/FI13030075"
+      }
+    ],
+    [
+      "Kingma2013",
+      "Auto-Encoding Variational Bayes",
+      {
+        "title" : "Auto-Encoding Variational Bayes",
+        "title_match" : "Training Latent Variable Models with Auto-encoding Variational Bayes: A Tutorial.",
+        "title_levenshtein" : 0.5535714285714286,
+        "author" : "Diederik Kingma",
+        "author_match" : "Yang Zhi-Han",
+        "author_levenshtein" : 0.2222222222222222,
+        "doi" : null,
+        "match_doi" : "10.48550/ARXIV.2208.07818"
+      }
+    ],
+    [
+      "Cao2015",
+      "{GraRep}",
+      {
+        "title" : "{GraRep}",
+        "title_match" : "GraRep++: Flexible Learning Graph Representations With Weighted Global Structural Information.",
+        "title_levenshtein" : 0.11764705882352944,
+        "author" : "Shaosheng Cao",
+        "author_match" : "Mengcen Ouyang",
+        "author_levenshtein" : 0.37037037037037035,
+        "doi" : "10.1145/2806416.2806512",
+        "match_doi" : "10.1109/ACCESS.2023.3313411"
+      }
+    ],
+    [
+      "Elman1990",
+      "Finding Structure in Time",
+      {
+        "title" : "Finding Structure in Time",
+        "title_match" : "Matrix Profile XIX: Time Series Semantic Motifs: A New Primitive for Finding Higher-Level Structure in Time Series.",
+        "title_levenshtein" : 0.3571428571428571,
+        "author" : "Jeffrey Elman",
+        "author_match" : "Shima Imani",
+        "author_levenshtein" : 0.33333333333333337,
+        "doi" : "10.1207/s15516709cog1402_1",
+        "match_doi" : "10.1109/ICDM.2019.00043"
+      }
+    ],
+    [
+      "Kipf2016a",
+      "Semi-Supervised Classification with Graph Convolutional Networks",
+      {
+        "title" : "Semi-Supervised Classification with Graph Convolutional Networks",
+        "title_match" : "MGCN: semi-supervised classification in multi-layer graphs with graph convolutional networks.",
+        "title_levenshtein" : 0.8152866242038217,
+        "author" : "Thomas Kipf",
+        "author_match" : "Mahsa Ghorbani",
+        "author_levenshtein" : 0.4,
+        "doi" : "10.48550/ARXIV.1609.02907",
+        "match_doi" : "10.1145/3341161.3342942"
+      }
+    ],
+    [
+      "Zaheer2017",
+      "Deep Sets",
+      {
+        "title" : "Deep Sets",
+        "title_match" : "How Deepbics Quantifies Intensities of Transcription Factor-DNA Binding and Facilitates Prediction of Single Nucleotide Variant Pathogenicity With a Deep Learning Model Trained On ChIP-Seq Data Sets.",
+        "title_levenshtein" : 0.08653846153846156,
+        "author" : "Manzil Zaheer",
+        "author_match" : "Lijun Quan",
+        "author_levenshtein" : 0.26086956521739135,
+        "doi" : "10.48550/ARXIV.1703.06114",
+        "match_doi" : "10.1109/TCBB.2022.3170343"
+      }
+    ],
+    [
+      "Hochreiter1997",
+      "Long Short-Term Memory",
+      {
+        "title" : "Long Short-Term Memory",
+        "title_match" : "Build A Module for Improvement Real Time Speech enhancement using Long Short-term Memory Approach: Improvement Real Time Speech enhancement using Long Short-term Memory.",
+        "title_levenshtein" : 0.23036649214659688,
+        "author" : "Sepp Hochreiter",
+        "author_match" : "Van Vo",
+        "author_levenshtein" : 0.19047619047619047,
+        "doi" : "10.1162/neco.1997.9.8.1735",
+        "match_doi" : "10.1145/3591569.3591614"
+      }
+    ],
+    [
+      "Cui2019",
+      "A Survey on Network Embedding",
+      {
+        "title" : "A Survey on Network Embedding",
+        "title_match" : "A Survey on Algorithmic Aspects of Virtual Optical Network Embedding for Cloud Networks.",
+        "title_levenshtein" : 0.49572649572649574,
+        "author" : "Peng Cui",
+        "author_match" : "Enrique Davalos",
+        "author_levenshtein" : 0.26086956521739135,
+        "doi" : "10.1109/tkde.2018.2849727",
+        "match_doi" : "10.1109/ACCESS.2018.2821179"
+      }
+    ],
+    [
+      "Dyk2001",
+      "The Art of Data Augmentation",
+      {
+        "title" : "The Art of Data Augmentation",
+        "title_match" : "Analysis of the Impact of Data Augmentation on the Performance of Deep Learning Models in Multispectral Food Authenticity Identification.",
+        "title_levenshtein" : 0.32727272727272727,
+        "author" : "David Dyk",
+        "author_match" : "Yaru Zhang",
+        "author_levenshtein" : 0.21052631578947367,
+        "doi" : "10.1198/10618600152418584",
+        "match_doi" : "10.15439/2023F3643"
+      }
+    ],
+    [
+      "Hamilton2017a",
+      "Inductive Representation Learning on Large Graphs",
+      {
+        "title" : "Inductive Representation Learning on Large Graphs",
+        "title_match" : "Adversarial Caching Training: Unsupervised Inductive Network Representation Learning on Large-Scale Graphs.",
+        "title_levenshtein" : 0.6282051282051282,
+        "author" : "William Hamilton",
+        "author_match" : "Junyang Chen",
+        "author_levenshtein" : 0.2857142857142857,
+        "doi" : "10.48550/ARXIV.1706.02216",
+        "match_doi" : "10.1109/TNNLS.2021.3084195"
+      }
+    ],
+    [
+      "Boutros2022",
+      "Self-restrained triplet loss for accurate masked face recognition",
+      {
+        "title" : "Self-restrained triplet loss for accurate masked face recognition",
+        "title_match" : "Unmasking Face Embeddings by Self-restrained Triplet Loss for Accurate Masked Face Recognition.",
+        "title_levenshtein" : 0.8125,
+        "author" : "Fadi Boutros",
+        "author_match" : "Fadi Boutros",
+        "author_levenshtein" : 1.0,
+        "doi" : "10.1016/j.patcog.2021.108473",
+        "match_doi" : null
+      }
+    ],
+    [
+      "Cover1967",
+      "Nearest neighbor pattern classification",
+      {
+        "title" : "Nearest neighbor pattern classification",
+        "title_match" : "RBF-based neurodynamic nearest neighbor classification in real pattern space.",
+        "title_levenshtein" : 0.5344827586206897,
+        "author" : "T. Cover",
+        "author_match" : "Mehmet Muezzinoglu",
+        "author_levenshtein" : 0.23076923076923073,
+        "doi" : "10.1109/tit.1967.1053964",
+        "match_doi" : "10.1016/J.PATCOG.2005.10.026"
+      }
+    ],
+    [
+      "Velickovic2017",
+      "Graph Attention Networks",
+      {
+        "title" : "Graph Attention Networks",
+        "title_match" : "Graph Decoupling Attention Markov Networks for Semisupervised Graph Node Classification.",
+        "title_levenshtein" : 0.4285714285714286,
+        "author" : "Petar Velickovic",
+        "author_match" : "Jie Chen",
+        "author_levenshtein" : 0.25,
+        "doi" : "10.48550/ARXIV.1710.10903",
+        "match_doi" : "10.1109/TNNLS.2022.3161453"
+      }
+    ],
+    [
+      "BernersLee2001",
+      "The Semantic Web",
+      {
+        "title" : "The Semantic Web",
+        "title_match" : "Geospatial Semantics and the Semantic Web - Foundations, Algorithms, and Applications",
+        "title_levenshtein" : 0.3168316831683168,
+        "author" : "Tim Berners-Lee",
+        "author_match" : "Naveen Ashish",
+        "author_levenshtein" : 0.2142857142857143,
+        "doi" : "10.1038/scientificamerican0501-34",
+        "match_doi" : "10.1007/978-1-4419-9446-2"
+      }
+    ],
+    [
+      "W3C",
+      "World Wide Web Consortium (W3C)",
+      {
+        "title" : "World Wide Web Consortium (W3C)",
+        "title_match" : "Web review: W3C, the World Wide Web consortium.",
+        "title_levenshtein" : 0.641025641025641,
+        "author" : "World (W3C)",
+        "author_match" : "Kim Moorman",
+        "author_levenshtein" : 0.18181818181818177,
+        "doi" : null,
+        "match_doi" : "10.1145/333104.333108"
+      }
+    ],
+    [
+      "Sowa2006",
+      "Semantic Networks",
+      {
+        "title" : "Semantic Networks",
+        "title_match" : "Consolidation endog\u00e8ne de r\u00e9seaux lexico-s\u00e9mantiques : Inf\u00e9rence et annotation de relations, r\u00e8gles d&apos;inf\u00e9rence et langage d\u00e9di\u00e9. (Endogeneous Consolidation of Lexical Semantic Networks / Endogeneous Consolidation of Lexical Semantic Networks : Inference and annotation of semantic relations, inference rules and Domain-Specific Language ).",
+        "title_levenshtein" : 0.09523809523809523,
+        "author" : "John Sowa",
+        "author_match" : "Manel Zarrouk",
+        "author_levenshtein" : 0.2727272727272727,
+        "doi" : "10.1002/0470018860.s00065",
+        "match_doi" : null
+      }
+    ],
+    [
+      "Weiss2016",
+      "A survey of transfer learning",
+      {
+        "title" : "A survey of transfer learning",
+        "title_match" : "A Survey of Incremental Transfer Learning: Combining Peer-to-Peer Federated Learning and Domain Incremental Learning for Multicenter Collaboration.",
+        "title_levenshtein" : 0.3295454545454546,
+        "author" : "Karl Weiss",
+        "author_match" : "Yixing Huang",
+        "author_levenshtein" : 0.09090909090909094,
+        "doi" : "10.1186/s40537-016-0043-6",
+        "match_doi" : "10.48550/ARXIV.2309.17192"
+      }
+    ],
+    [
+      "Giles1998",
+      "{CiteSeer}",
+      {
+        "title" : "{CiteSeer}",
+        "title_match" : "The Future of CiteSeer: CiteSeerx.",
+        "title_levenshtein" : 0.36363636363636365,
+        "author" : "C. Giles",
+        "author_match" : "C. Giles",
+        "author_levenshtein" : 1.0,
+        "doi" : "10.1145/276675.276685",
+        "match_doi" : "10.1007/11871637_2"
+      }
+    ]
+  ],
+  "requests_failed" : [],
+  "parsed_entries" : [
+    "Cebiric2018",
+    "Zeyen2020",
+    "Bergmann2014",
+    "Hoffmann2020",
+    "Li2019",
+    "Cai2017",
+    "Harshvardhan2020",
+    "Dhariwal2021",
+    "Bergmann2019",
+    "Hoffmann2022",
+    "Aamodt1994",
+    "Reijers2021",
+    "Malburg2020",
+    "Ontanon2020",
+    "Richter2007",
+    "Sahito2021",
+    "Struckmeier2020",
+    "Frey2022",
+    "Yang2021",
+    "Dong2018",
+    "Li2018",
+    "Choudhary2021",
+    "AlRfou2019",
+    "Schroff2015",
+    "Krivosheev2020",
+    "Chen2020",
+    "Chen2020a",
+    "Yu2019",
+    "Zhong2019",
+    "Liu2021",
+    "Zhang2020",
+    "Lin2018",
+    "Simonovsky2018",
+    "Shi2019",
+    "Tang2022",
+    "Hamilton2017",
+    "Ahmed2013",
+    "2002",
+    "Grover2016",
+    "Ou2016",
+    "Perozzi2014",
+    "Gilmer2017",
+    "Battaglia2018",
+    "Qi2016",
+    "Murphy2018",
+    "Rezende2014",
+    "Sun2021",
+    "Shorten2019",
+    "Shorten2021",
+    "Bruna2013",
+    "Dai2016",
+    "Li2022",
+    "Liao2019",
+    "You2018",
+    "Chicco2020",
+    "Hadsell",
+    "Hermans2017",
+    "Fang2023",
+    "Chen2021",
+    "Tang2022a",
+    "Ghosh2021",
+    "Chen2022",
+    "Guo2022",
+    "Gan2022",
+    "Ying2018",
+    "Zhan2023",
+    "Abadi2016",
+    "Ryen2022",
+    "Paulheim2016",
+    "Minor",
+    "Goyal2018",
+    "Perozzi2016",
+    "Klein2019",
+    "Mathisen2021",
+    "Amin2019",
+    "Corchado2001",
+    "Dieterle2014",
+    "Mathisen2019",
+    "Liu2019",
+    "Champin",
+    "Dijkman2009",
+    "Chopra",
+    "Berlemont2015",
+    "Martin2017",
+    "Madhusudan2004",
+    "Zhang2020a",
+    "Wu2017",
+    "Devlin2018",
+    "Mikolov2013",
+    "Chourib2022",
+    "Lenz2019",
+    "Kirk2007",
+    "BROMLEY1993"
+  ],
+  "match_reasons" : {
+    "doi" : [
+      "Cebiric2018",
+      "Zeyen2020",
+      "Bergmann2014",
+      "Hoffmann2020",
+      "Harshvardhan2020",
+      "Hoffmann2022",
+      "Aamodt1994",
+      "Reijers2021",
+      "Malburg2020",
+      "Yang2021",
+      "Dong2018",
+      "Li2018",
+      "AlRfou2019",
+      "Schroff2015",
+      "Ahmed2013",
+      "Ou2016",
+      "Perozzi2014",
+      "Sun2021",
+      "Shorten2019",
+      "Shorten2021",
+      "Li2022",
+      "Chicco2020",
+      "Hadsell",
+      "Fang2023",
+      "Chen2021",
+      "Tang2022a",
+      "Guo2022",
+      "Gan2022",
+      "Ying2018",
+      "Ryen2022",
+      "Paulheim2016",
+      "Minor",
+      "Klein2019",
+      "Mathisen2021",
+      "Amin2019",
+      "Corchado2001",
+      "Dieterle2014",
+      "Mathisen2019",
+      "Liu2019",
+      "Champin",
+      "Dijkman2009",
+      "Chopra",
+      "Berlemont2015",
+      "Madhusudan2004",
+      "Chourib2022",
+      "Lenz2019",
+      "Kirk2007",
+      "BROMLEY1993"
+    ],
+    "levenshtein" : {
+      ">=0.98" : [
+        [
+          "Li2019",
+          {
+            "title" : "Graph Matching Networks for Learning the Similarity of Graph Structured Objects",
+            "title_match" : "Graph Matching Networks for Learning the Similarity of Graph Structured Objects.",
+            "title_levenshtein" : 0.9937106918238994,
+            "author" : "Yujia Li",
+            "author_match" : "Yujia Li",
+            "author_levenshtein" : 1.0
+          }
+        ],
+        [
+          "Cai2017",
+          {
+            "title" : "A Comprehensive Survey of Graph Embedding: Problems, Techniques and Applications",
+            "title_match" : "A Comprehensive Survey of Graph Embedding: Problems, Techniques and Applications.",
+            "title_levenshtein" : 0.9937888198757764,
+            "author" : "Hongyun Cai",
+            "author_match" : "Hongyun Cai",
+            "author_levenshtein" : 1.0
+          }
+        ],
+        [
+          "Dhariwal2021",
+          {
+            "title" : "Diffusion Models Beat GANs on Image Synthesis",
+            "title_match" : "Diffusion Models Beat GANs on Image Synthesis.",
+            "title_levenshtein" : 0.989010989010989,
+            "author" : "Prafulla Dhariwal",
+            "author_match" : "Prafulla Dhariwal",
+            "author_levenshtein" : 1.0
+          }
+        ],
+        [
+          "Bergmann2019",
+          {
+            "title" : "ProCAKE: A Process-Oriented Case-Based Reasoning Framework",
+            "title_match" : "ProCAKE: A Process-Oriented Case-Based Reasoning Framework.",
+            "title_levenshtein" : 0.9914529914529915,
+            "author" : "Ralph Bergmann",
+            "author_match" : "Ralph Bergmann",
+            "author_levenshtein" : 1.0
+          }
+        ],
+        [
+          "Ontanon2020",
+          {
+            "title" : "An overview of distance and similarity functions for structured data",
+            "title_match" : "An Overview of Distance and Similarity Functions for Structured Data.",
+            "title_levenshtein" : 0.9927007299270073,
+            "author" : "Santiago Ontanon",
+            "author_match" : "Santiago Ontanon",
+            "author_levenshtein" : 1.0
+          }
+        ],
+        [
+          "Richter2007",
+          {
+            "title" : "Foundations of Similarity and Utility.",
+            "title_match" : "Foundations of Similarity and Utility.",
+            "title_levenshtein" : 1.0,
+            "author" : "Michael Richter",
+            "author_match" : "Michael Richter",
+            "author_levenshtein" : 1.0
+          }
+        ],
+        [
+          "Sahito2021",
+          {
+            "title" : "Semi-Supervised Learning using Siamese Networks",
+            "title_match" : "Semi-Supervised Learning using Siamese Networks.",
+            "title_levenshtein" : 0.9894736842105263,
+            "author" : "Attaullah Sahito",
+            "author_match" : "Attaullah Sahito",
+            "author_levenshtein" : 1.0
+          }
+        ],
+        [
+          "Struckmeier2020",
+          {
+            "title" : "Autoencoding Slow Representations for Semi-supervised Data Efficient Regression",
+            "title_match" : "Autoencoding slow representations for semi-supervised data-efficient regression.",
+            "title_levenshtein" : 0.9811320754716981,
+            "author" : "Oliver Struckmeier",
+            "author_match" : "Oliver Struckmeier",
+            "author_levenshtein" : 1.0
+          }
+        ],
+        [
+          "Frey2022",
+          {
+            "title" : "V-Coder: Adaptive AutoEncoder for Semantic Disclosure in Knowledge Graphs",
+            "title_match" : "V-Coder: Adaptive AutoEncoder for Semantic Disclosure in Knowledge Graphs.",
+            "title_levenshtein" : 0.9931972789115646,
+            "author" : "Christian Frey",
+            "author_match" : "Christian Frey",
+            "author_levenshtein" : 1.0
+          }
+        ],
+        [
+          "Choudhary2021",
+          {
+            "title" : "A Survey of Knowledge Graph Embedding and Their Applications",
+            "title_match" : "A Survey of Knowledge Graph Embedding and Their Applications.",
+            "title_levenshtein" : 0.9917355371900827,
+            "author" : "Shivani Choudhary",
+            "author_match" : "Shivani Choudhary",
+            "author_levenshtein" : 1.0
+          }
+        ],
+        [
+          "Krivosheev2020",
+          {
+            "title" : "Siamese Graph Neural Networks for Data Integration",
+            "title_match" : "Siamese Graph Neural Networks for Data Integration.",
+            "title_levenshtein" : 0.9900990099009901,
+            "author" : "Evgeny Krivosheev",
+            "author_match" : "Evgeny Krivosheev",
+            "author_levenshtein" : 1.0
+          }
+        ],
+        [
+          "Chen2020",
+          {
+            "title" : "A Simple Framework for Contrastive Learning of Visual Representations",
+            "title_match" : "A Simple Framework for Contrastive Learning of Visual Representations.",
+            "title_levenshtein" : 0.9928057553956835,
+            "author" : "Ting Chen",
+            "author_match" : "Ting Chen",
+            "author_levenshtein" : 1.0
+          }
+        ],
+        [
+          "Chen2020a",
+          {
+            "title" : "Improved Baselines with Momentum Contrastive Learning",
+            "title_match" : "Improved Baselines with Momentum Contrastive Learning.",
+            "title_levenshtein" : 0.9906542056074766,
+            "author" : "Xinlei Chen",
+            "author_match" : "Xinlei Chen",
+            "author_levenshtein" : 1.0
+          }
+        ],
+        [
+          "Yu2019",
+          {
+            "title" : "Unsupervised Person Re-identification by Soft Multilabel Learning",
+            "title_match" : "Unsupervised Person Re-Identification by Soft Multilabel Learning.",
+            "title_levenshtein" : 0.9923664122137404,
+            "author" : "Hong-Xing Yu",
+            "author_match" : "Hong-Xing Yu",
+            "author_levenshtein" : 1.0
+          }
+        ],
+        [
+          "Zhong2019",
+          {
+            "title" : "Invariance Matters: Exemplar Memory for Domain Adaptive Person Re-identification",
+            "title_match" : "Invariance Matters: Exemplar Memory for Domain Adaptive Person Re-Identification.",
+            "title_levenshtein" : 0.9937888198757764,
+            "author" : "Zhun Zhong",
+            "author_match" : "Zhun Zhong",
+            "author_levenshtein" : 1.0
+          }
+        ],
+        [
+          "Liu2021",
+          {
+            "title" : "Graph Consistency Based Mean-Teaching for Unsupervised Domain Adaptive Person Re-Identification",
+            "title_match" : "Graph Consistency Based Mean-Teaching for Unsupervised Domain Adaptive Person Re-Identification.",
+            "title_levenshtein" : 0.9947643979057592,
+            "author" : "Xiaobin Liu",
+            "author_match" : "Xiaobin Liu",
+            "author_levenshtein" : 1.0
+          }
+        ],
+        [
+          "Zhang2020",
+          {
+            "title" : "Graph Convolutional Auto-encoder with Bi-decoder and Adaptive-sharing Adjacency",
+            "title_match" : "Graph Convolutional Auto-encoder with Bi-decoder and Adaptive-sharing Adjacency.",
+            "title_levenshtein" : 0.9937106918238994,
+            "author" : "Rui Zhang",
+            "author_match" : "Rui Zhang",
+            "author_levenshtein" : 1.0
+          }
+        ],
+        [
+          "Lin2018",
+          {
+            "title" : "Variational Message Passing with Structured Inference Networks",
+            "title_match" : "Variational Message Passing with Structured Inference Networks.",
+            "title_levenshtein" : 0.992,
+            "author" : "Wu Lin",
+            "author_match" : "Wu Lin",
+            "author_levenshtein" : 1.0
+          }
+        ],
+        [
+          "Simonovsky2018",
+          {
+            "title" : "GraphVAE: Towards Generation of Small Graphs Using Variational Autoencoders",
+            "title_match" : "GraphVAE: Towards Generation of Small Graphs Using Variational Autoencoders.",
+            "title_levenshtein" : 0.9933774834437086,
+            "author" : "Martin Simonovsky",
+            "author_match" : "Martin Simonovsky",
+            "author_levenshtein" : 1.0
+          }
+        ],
+        [
+          "Shi2019",
+          {
+            "title" : "Effective Decoding in Graph Auto-Encoder using Triadic Closure",
+            "title_match" : "Effective Decoding in Graph Auto-Encoder Using Triadic Closure.",
+            "title_levenshtein" : 0.992,
+            "author" : "Han Shi",
+            "author_match" : "Han Shi",
+            "author_levenshtein" : 1.0
+          }
+        ],
+        [
+          "Tang2022",
+          {
+            "title" : "Graph Auto-Encoder Via Neighborhood Wasserstein Reconstruction",
+            "title_match" : "Graph Auto-Encoder via Neighborhood Wasserstein Reconstruction.",
+            "title_levenshtein" : 0.992,
+            "author" : "Mingyue Tang",
+            "author_match" : "Mingyue Tang",
+            "author_levenshtein" : 1.0
+          }
+        ],
+        [
+          "Hamilton2017",
+          {
+            "title" : "Representation Learning on Graphs: Methods and Applications",
+            "title_match" : "Representation Learning on Graphs: Methods and Applications.",
+            "title_levenshtein" : 0.9915966386554622,
+            "author" : "William Hamilton",
+            "author_match" : "William Hamilton",
+            "author_levenshtein" : 1.0
+          }
+        ],
+        [
+          "2002",
+          {
+            "title" : "Laplacian Eigenmaps and Spectral Techniques for Embedding and Clustering",
+            "title_match" : "Laplacian Eigenmaps and Spectral Techniques for Embedding and Clustering.",
+            "title_levenshtein" : 0.993103448275862,
+            "author" : "Mikhail Belkin",
+            "author_match" : "Mikhail Belkin",
+            "author_levenshtein" : 1.0
+          }
+        ],
+        [
+          "Grover2016",
+          {
+            "title" : "node2vec: Scalable Feature Learning for Networks",
+            "title_match" : "node2vec: Scalable Feature Learning for Networks.",
+            "title_levenshtein" : 0.9896907216494846,
+            "author" : "Aditya Grover",
+            "author_match" : "Aditya Grover",
+            "author_levenshtein" : 1.0
+          }
+        ],
+        [
+          "Gilmer2017",
+          {
+            "title" : "Neural Message Passing for Quantum Chemistry",
+            "title_match" : "Neural Message Passing for Quantum Chemistry.",
+            "title_levenshtein" : 0.9887640449438202,
+            "author" : "Justin Gilmer",
+            "author_match" : "Justin Gilmer",
+            "author_levenshtein" : 1.0
+          }
+        ],
+        [
+          "Battaglia2018",
+          {
+            "title" : "Relational inductive biases, deep learning, and graph networks",
+            "title_match" : "Relational inductive biases, deep learning, and graph networks.",
+            "title_levenshtein" : 0.992,
+            "author" : "Peter Battaglia",
+            "author_match" : "Peter Battaglia",
+            "author_levenshtein" : 1.0
+          }
+        ],
+        [
+          "Qi2016",
+          {
+            "title" : "PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation",
+            "title_match" : "PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation.",
+            "title_levenshtein" : 0.9934640522875817,
+            "author" : "Charles Qi",
+            "author_match" : "Charles Qi",
+            "author_levenshtein" : 1.0
+          }
+        ],
+        [
+          "Murphy2018",
+          {
+            "title" : "Janossy Pooling: Learning Deep Permutation-Invariant Functions for Variable-Size Inputs",
+            "title_match" : "Janossy Pooling: Learning Deep Permutation-Invariant Functions for Variable-Size Inputs.",
+            "title_levenshtein" : 0.9942857142857143,
+            "author" : "Ryan Murphy",
+            "author_match" : "Ryan Murphy",
+            "author_levenshtein" : 1.0
+          }
+        ],
+        [
+          "Rezende2014",
+          {
+            "title" : "Stochastic Backpropagation and Approximate Inference in Deep Generative Models",
+            "title_match" : "Stochastic Backpropagation and Approximate Inference in Deep Generative Models.",
+            "title_levenshtein" : 0.9936305732484076,
+            "author" : "Danilo Rezende",
+            "author_match" : "Danilo Rezende",
+            "author_levenshtein" : 1.0
+          }
+        ],
+        [
+          "Bruna2013",
+          {
+            "title" : "Spectral Networks and Locally Connected Networks on Graphs",
+            "title_match" : "Spectral Networks and Locally Connected Networks on Graphs.",
+            "title_levenshtein" : 0.9914529914529915,
+            "author" : "Joan Bruna",
+            "author_match" : "Joan Bruna",
+            "author_levenshtein" : 1.0
+          }
+        ],
+        [
+          "Dai2016",
+          {
+            "title" : "Discriminative Embeddings of Latent Variable Models for Structured Data",
+            "title_match" : "Discriminative Embeddings of Latent Variable Models for Structured Data.",
+            "title_levenshtein" : 0.993006993006993,
+            "author" : "Hanjun Dai",
+            "author_match" : "Hanjun Dai",
+            "author_levenshtein" : 1.0
+          }
+        ],
+        [
+          "Liao2019",
+          {
+            "title" : "Efficient Graph Generation with Graph Recurrent Attention Networks",
+            "title_match" : "Efficient Graph Generation with Graph Recurrent Attention Networks.",
+            "title_levenshtein" : 0.9924812030075187,
+            "author" : "Renjie Liao",
+            "author_match" : "Renjie Liao",
+            "author_levenshtein" : 1.0
+          }
+        ],
+        [
+          "You2018",
+          {
+            "title" : "GraphRNN: Generating Realistic Graphs with Deep Auto-regressive Models",
+            "title_match" : "GraphRNN: Generating Realistic Graphs with Deep Auto-regressive Models.",
+            "title_levenshtein" : 0.9929078014184397,
+            "author" : "Jiaxuan You",
+            "author_match" : "Jiaxuan You",
+            "author_levenshtein" : 1.0
+          }
+        ],
+        [
+          "Hermans2017",
+          {
+            "title" : "In Defense of the Triplet Loss for Person Re-Identification",
+            "title_match" : "In Defense of the Triplet Loss for Person Re-Identification.",
+            "title_levenshtein" : 0.9915966386554622,
+            "author" : "Alexander Hermans",
+            "author_match" : "Alexander Hermans",
+            "author_levenshtein" : 1.0
+          }
+        ],
+        [
+          "Ghosh2021",
+          {
+            "title" : "Relation Preserving Triplet Mining for Stabilising the Triplet Loss in Re-identification Systems",
+            "title_match" : "Relation Preserving Triplet Mining for Stabilising the Triplet Loss in Re-identification Systems.",
+            "title_levenshtein" : 0.9948186528497409,
+            "author" : "Adhiraj Ghosh",
+            "author_match" : "Adhiraj Ghosh",
+            "author_levenshtein" : 1.0
+          }
+        ],
+        [
+          "Chen2022",
+          {
+            "title" : "Context Autoencoder for Self-Supervised Representation Learning",
+            "title_match" : "Context Autoencoder for Self-supervised Representation Learning.",
+            "title_levenshtein" : 0.9921259842519685,
+            "author" : "Xiaokang Chen",
+            "author_match" : "Xiaokang Chen",
+            "author_levenshtein" : 1.0
+          }
+        ],
+        [
+          "Zhan2023",
+          {
+            "title" : "Measuring the Privacy Leakage via Graph Reconstruction Attacks on Simplicial Neural Networks (Student Abstract)",
+            "title_match" : "Measuring the Privacy Leakage via Graph Reconstruction Attacks on Simplicial Neural Networks (Student Abstract).",
+            "title_levenshtein" : 0.9955156950672646,
+            "author" : "Huixin Zhan",
+            "author_match" : "Huixin Zhan",
+            "author_levenshtein" : 1.0
+          }
+        ],
+        [
+          "Abadi2016",
+          {
+            "title" : "TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems",
+            "title_match" : "TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems.",
+            "title_levenshtein" : 0.9935483870967742,
+            "author" : "Martin Abadi",
+            "author_match" : "Martin Abadi",
+            "author_levenshtein" : 1.0
+          }
+        ],
+        [
+          "Goyal2018",
+          {
+            "title" : "Graph embedding techniques, applications, and performance: A survey",
+            "title_match" : "Graph Embedding Techniques, Applications, and Performance: A Survey.",
+            "title_levenshtein" : 0.9925925925925926,
+            "author" : "Palash Goyal",
+            "author_match" : "Palash Goyal",
+            "author_levenshtein" : 1.0
+          }
+        ],
+        [
+          "Perozzi2016",
+          {
+            "title" : "Don't Walk, Skip! Online Learning of Multi-scale Network Embeddings",
+            "title_match" : "Don&apos;t Walk, Skip!: Online Learning of Multi-scale Network Embeddings.",
+            "title_levenshtein" : 0.9852941176470589,
+            "author" : "Bryan Perozzi",
+            "author_match" : "Bryan Perozzi",
+            "author_levenshtein" : 1.0
+          }
+        ],
+        [
+          "Martin2017",
+          {
+            "title" : "A Convolutional Siamese Network for Developing Similarity Knowledge in the SelfBACK Dataset",
+            "title_match" : "A Convolutional Siamese Network for Developing Similarity Knowledge in the SelfBACK Dataset.",
+            "title_levenshtein" : 0.994535519125683,
+            "author" : "Kyle Martin",
+            "author_match" : "Kyle Martin",
+            "author_levenshtein" : 1.0
+          }
+        ],
+        [
+          "Zhang2020a",
+          {
+            "title" : "Unsupervised Graph Embedding via Adaptive Graph Learning",
+            "title_match" : "Unsupervised Graph Embedding via Adaptive Graph Learning.",
+            "title_levenshtein" : 0.9911504424778761,
+            "author" : "Rui Zhang",
+            "author_match" : "Rui Zhang",
+            "author_levenshtein" : 1.0
+          }
+        ],
+        [
+          "Wu2017",
+          {
+            "title" : "StarSpace: Embed All The Things!",
+            "title_match" : "StarSpace: Embed All The Things!",
+            "title_levenshtein" : 1.0,
+            "author" : "Ledell Wu",
+            "author_match" : "Ledell Wu",
+            "author_levenshtein" : 1.0
+          }
+        ],
+        [
+          "Devlin2018",
+          {
+            "title" : "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+            "title_match" : "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding.",
+            "title_levenshtein" : 0.9937888198757764,
+            "author" : "Jacob Devlin",
+            "author_match" : "Jacob Devlin",
+            "author_levenshtein" : 1.0
+          }
+        ],
+        [
+          "Mikolov2013",
+          {
+            "title" : "Efficient Estimation of Word Representations in Vector Space",
+            "title_match" : "Efficient Estimation of Word Representations in Vector Space",
+            "title_levenshtein" : 1.0,
+            "author" : "Tomas Mikolov",
+            "author_match" : "Tomas Mikolov",
+            "author_levenshtein" : 1.0
+          }
+        ]
+      ],
+      "other" : []
+    }
+  }
+}
