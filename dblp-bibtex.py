@@ -8,7 +8,7 @@ from pathlib import Path
 
 import Levenshtein
 import requests
-# need to import latexcodec to .decode('latex')
+import latexcodec  # This import is needed for decoding. DO NOT REMOVE!
 from pybtex.database import BibliographyData
 from pybtex.database import parse_string
 from pybtex.database.input import bibtex
@@ -49,6 +49,11 @@ match_reasons = {
 
 for citation_key, entry in tqdm(bib_file.entries.items(), desc='Matching Entries to DBLP'):
     title = entry.fields['title']
+
+    if 'author' not in entry.persons:
+        not_found.append((citation_key, title))
+        continue
+
     authors = entry.persons['author']
     doi = entry.fields['doi'].replace('https://doi.org/', '') if 'doi' in entry.fields else None
 
@@ -74,6 +79,12 @@ for citation_key, entry in tqdm(bib_file.entries.items(), desc='Matching Entries
             levenshtein_ratio_title = Levenshtein.ratio(title.lower(),
                                                         html.unescape(
                                                             best_match['info']['title'].lower()))
+
+            # check if authors present
+            if 'authors' not in best_match['info']:
+                not_found.append((citation_key, title))
+                continue
+
             if isinstance(best_match['info']['authors']['author'], dict):
                 author_match = best_match['info']['authors']['author']['text']
             elif len(best_match['info']['authors']['author']) > 0:
